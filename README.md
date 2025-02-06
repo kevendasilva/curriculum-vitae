@@ -16,20 +16,15 @@ EEEP Professor Onélio Porto - Técnico em Redes de Computadores
 **Principais atividades desempenhadas**: Atuo como desenvolvedor freelancer, criando
 soluções robustas e escaláveis para diversas demandas backend com o framework Ruby
 on Rails. Minhas principais responsabilidades incluem:
-- Desenvolvimento de APIs RESTful: Criação de endpoints eficientes para comunicação entre
-sistemas.
-- Implementação de Regras de Negócio: Modelagem de lógicas complexas para atender a
-requisitos específicos de clientes.
-- Autenticação e Autorização Seguras: Uso de gems populares, como Devise e Pundit, para
-gerenciar autenticação e controle de acesso.
-- Otimização de Performance: Refatoração de código e análise de desempenho para
-melhorar a eficiência das aplicações.
-- Testes Automatizados: Aplicação de boas práticas de testes (TDD e BDD) para garantir a
-confiabilidade e manutenibilidade do código.
-Integrações com Serviços Terceirizados: Conexão de sistemas a APIs externas, como
-gateways de pagamento e serviços de envio de e-mail.
-- Colaboração com Clientes: Levantamento de requisitos, alinhamento de expectativas e
-entrega de soluções sob medida.
+- Desenvolvimento de APIs RESTful: Criação de endpoints eficientes para comunicação entre sistemas.
+- Implementação de Regras de Negócio: Modelagem de lógicas complexas para atender a requisitos específicos de clientes.
+- Autenticação e Autorização Seguras: Uso de gems populares, como Devise e Pundit, para gerenciar autenticação e controle de acesso.
+- Otimização de Performance: Refatoração de código e análise de desempenho para melhorar a eficiência das aplicações.
+- Testes Automatizados: Aplicação de boas práticas de testes (TDD e BDD) para garantir a confiabilidade e manutenibilidade do código.
+- Integrações com Serviços Terceirizados: Conexão de sistemas a APIs externas, como gateways de pagamento e serviços de envio de e-mail.
+- Uso de serviços da AWS: Implementação de soluções com AWS S3 para armazenamento de arquivos e AWS SES para envio de e-mails transacionais.
+- Infraestrutura e entrega de aplicações: Aprimoramento dos conhecimentos em deploy, escalabilidade e monitoramento de aplicações em produção.
+- Colaboração com Clientes: Levantamento de requisitos, alinhamento de expectativas e entrega de soluções sob medida.
 
 Essa experiência me permitiu aprimorar habilidades técnicas e de comunicação,
 desenvolvendo projetos que atendem a diferentes nichos e necessidades de mercado.
@@ -64,16 +59,15 @@ resolver problemas e aprimorar o fluxo de trabalho.
 desempenhei diferentes papéis, assumindo responsabilidades técnicas e gerenciais que
 contribuíram diretamente para o sucesso dos projetos e o desenvolvimento da equipe.
 Engenharia de Software
-- Desenvolvi aplicações web utilizando o framework Ruby on Rails, integrando
-funcionalidades dinâmicas com JavaScript para atender às necessidades dos clientes.
-- Contribuí para a criação de sites utilizando a interface do WordPress, focando em soluções
-práticas e intuitivas.
-- Participei de revisões e refatoração de código, garantindo a qualidade e manutenibilidade
-das entregas.
-- Apliquei a metodologia ágil Scrum para organizar sprints e planejar entregas, promovendo
-uma melhor gestão de tempo e alinhamento com a equipe.
-- Utilizei a ferramenta Pipefy para gerenciar tarefas e acompanhar o progresso dos projetos,
-garantindo maior visibilidade e controle dos processos.
+- Desenvolvi aplicações web utilizando o framework Ruby on Rails, integrando funcionalidades dinâmicas com JavaScript para atender às necessidades dos clientes.
+- Contribuí para a criação de sites utilizando a interface do WordPress, focando em soluções práticas e intuitivas.
+- Participei de revisões e refatoração de código, garantindo a qualidade e manutenibilidade das entregas.
+- Apliquei a metodologia ágil Scrum para organizar sprints e planejar entregas, promovendo uma melhor gestão de tempo e alinhamento com a equipe.
+- Utilizei a ferramenta Pipefy para gerenciar tarefas e acompanhar o progresso dos projetos, garantindo maior visibilidade e controle dos processos.
+- Desenvolvi um sistema no modelo SaaS, voltado para a gestão de projetos, comercializado para outras empresas juniores. O sistema foi projetado para otimizar o gerenciamento de tarefas e equipes, utilizando:
+  - AWS (Amazon Web Services) para armazenamento de arquivos.
+  - Twilio SendGrid para envio de e-mails transacionais e notificações.
+  - Redis para processamento e armazenamento de jobs assíncronos, garantindo alta performance e escalabilidade.
 
 **Empresa**: Laboratório de Engenharia de Sistemas de Computação\
 **Cargo**: Desenvolvedor - Front-End (3/2022 - 8/2022)\

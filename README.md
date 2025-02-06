@@ -11,9 +11,9 @@ EEEP Professor Onélio Porto - Técnico em Redes de Computadores
 
 ## Experiência profissional
 
-Empresa: Freelancer
-Cargo: Desenvolvedor - Full Stack (5/2024 - Meu emprego atual)
-Principais atividades desempenhadas: Atuo como desenvolvedor freelancer, criando
+**Empresa**: Freelancer\
+**Cargo**: Desenvolvedor - Full Stack (5/2024 - Meu emprego atual)\
+**Principais atividades desempenhadas**: Atuo como desenvolvedor freelancer, criando
 soluções robustas e escaláveis para diversas demandas backend com o framework Ruby
 on Rails. Minhas principais responsabilidades incluem:
 - Desenvolvimento de APIs RESTful: Criação de endpoints eficientes para comunicação entre
@@ -30,12 +30,13 @@ Integrações com Serviços Terceirizados: Conexão de sistemas a APIs externas,
 gateways de pagamento e serviços de envio de e-mail.
 - Colaboração com Clientes: Levantamento de requisitos, alinhamento de expectativas e
 entrega de soluções sob medida.
+
 Essa experiência me permitiu aprimorar habilidades técnicas e de comunicação,
 desenvolvendo projetos que atendem a diferentes nichos e necessidades de mercado.
 
-Empresa: Rede Sarah De Hospitais De Reabilitação
-Cargo: Estágio (2/2024 - Meu emprego atual)
-Principais atividades desempenhadas: Durante o estágio como técnico de informática,
+**Empresa**: Rede Sarah De Hospitais De Reabilitação\
+**Cargo**: Estágio (2/2024 - Meu emprego atual)\
+**Principais atividades desempenhadas**: Durante o estágio como técnico de informática,
 desempenho diversas atividades relacionadas à manutenção e suporte técnico. Realizo
 a manutenção preventiva e corretiva de equipamentos, como computadores, notebooks e
 impressoras, além de instalar e configurar sistemas operacionais, aplicativos e ferramentas
@@ -52,13 +53,14 @@ de problemas e configurações em sistemas de gestão de suporte técnico, e aux
 controle de estoque de equipamentos e peças de reposição. No dia a dia, faço uso frequente
 do pacote Office para documentar e organizar informações, elaborar relatórios e criar
 planilhas.
+
 Por fim, desenvolvo pequenas automações utilizando Python e Vue.js para otimizar tarefas
 repetitivas e melhorar a eficiência em processos, aplicando soluções inovadoras para
 resolver problemas e aprimorar o fluxo de trabalho.
 
-Empresa: GTi Engenharia Jr.
-Cargo: Desenvolvedor - Full Stack (2/2021 - 9/2022)
-Principais atividades desempenhadas: Durante meu período na GTi Engenharia Jr.,
+**Empresa**: GTi Engenharia Jr.\
+**Cargo**: Desenvolvedor - Full Stack (2/2021 - 9/2022)\
+**Principais atividades desempenhadas**: Durante meu período na GTi Engenharia Jr.,
 desempenhei diferentes papéis, assumindo responsabilidades técnicas e gerenciais que
 contribuíram diretamente para o sucesso dos projetos e o desenvolvimento da equipe.
 Engenharia de Software
@@ -73,9 +75,9 @@ uma melhor gestão de tempo e alinhamento com a equipe.
 - Utilizei a ferramenta Pipefy para gerenciar tarefas e acompanhar o progresso dos projetos,
 garantindo maior visibilidade e controle dos processos.
 
-Empresa: Laboratório de Engenharia de Sistemas de Computação
-Cargo: Desenvolvedor - Front-End (3/2022 - 8/2022)
-Principais atividades desempenhadas: Atuei como desenvolvedor no LESC, contribuindo
+**Empresa**: Laboratório de Engenharia de Sistemas de Computação\
+**Cargo**: Desenvolvedor - Front-End (3/2022 - 8/2022)\
+**Principais atividades desempenhadas**: Atuei como desenvolvedor no LESC, contribuindo
 para demandas voltadas ao desenvolvimento de aplicações web e o aprimoramento de
 processos acadêmicos e tecnológicos. Minhas responsabilidades incluíram:
 - Implementação de soluções para atender às demandas específicas do laboratório, incluindo
@@ -86,37 +88,38 @@ propor soluções técnicas adequadas.
 entregas.
 - Documentação detalhada dos processos e funcionalidades desenvolvidas, facilitando a
 manutenção e evolução dos projetos.
+
 Essa experiência fortaleceu minhas habilidades em desenvolvimento backend e colaboração
 em equipe, além de proporcionar maior compreensão sobre as necessidades tecnológicas
 em um ambiente acadêmico e de pesquisa.
 
 ## Conquistas
-Conquista: Curso
-Título: Introdução à Testes Automatizados (TDD)
-Descrição: Estudo e aplicação dos fundamentos do desenvolvimento guiado por testes
+**Conquista**: Curso
+**Título**: Introdução à Testes Automatizados (TDD)
+**Descrição**: Estudo e aplicação dos fundamentos do desenvolvimento guiado por testes
 (TDD), utilizando a linguagem Ruby. As atividades foram realizadas com o suporte da
 biblioteca RSpec, permitindo a criação de testes automatizados eficientes e a construção
 de código de alta qualidade, alinhado às boas práticas de desenvolvimento.
 
-Conquista: Trabalho voluntário
-Título: Bolsista do Programa de Iniciação à Docência
-Descrição: Fui bolsista do Programa de Iniciação à Docência no Laboratório de Computação
+**Conquista**: Trabalho voluntário
+**Título**: Bolsista do Programa de Iniciação à Docência
+**Descrição**: Fui bolsista do Programa de Iniciação à Docência no Laboratório de Computação
 Física, vinculado ao Departamento de Sistemas e Mídias Digitais (SMD). Atuei em atividades
 relacionadas a componentes curriculares sob a orientação de um professor mentor,
 contribuindo para a ampliação dos espaços de ensino-aprendizagem e promovendo o
 interesse dos alunos pela carreira docente.
 
-Conquista: Trabalho voluntário
-Título: Liderança - Empresa Júnior
-Descrição: Atuei como diretor de projetos na GTi Engenharia Jr., empresa júnior
+**Conquista**: Trabalho voluntário
+**Título**: Liderança - Empresa Júnior
+**Descrição**: Atuei como diretor de projetos na GTi Engenharia Jr., empresa júnior
 vinculada ao Departamento de Engenharia de Teleinformática (DETi), especializada no
 desenvolvimento de sistemas web. Fui responsável por monitorar, orientar e oferecer suporte
 à área de projetos da empresa, gerenciando múltiplas equipes de desenvolvimento e
 garantindo a qualidade e eficiência na execução dos projetos.
 
 ## Idiomas
-Idioma: Inglês
-Nível: Intermediário
+**Idioma**: Inglês
+**Nível**: Intermediário
 
-Idioma: Português
-Nível: Nativo/Fluente
+**Idioma**: Português
+**Nível**: Nativo/Fluente

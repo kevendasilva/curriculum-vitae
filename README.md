@@ -4,7 +4,7 @@
 
 Graduação (Em andamento)
 Universidade Federal do Ceará - Engenharia de Computação
-2/2019 - 2/2026
+2/2019 - 2/2026\
 Curso técnico (Completo)
 EEEP Professor Onélio Porto - Técnico em Redes de Computadores
 8/2017 - 10/2018

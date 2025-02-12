@@ -45,7 +45,7 @@ desenvolvendo projetos que atendem a diferentes nichos e necessidades de mercado
 
 **Empresa**: Rede Sarah De Hospitais De Reabilitação\
 **Cargo**: Estágio (2/2024 - Meu emprego atual)\
-**Principais atividades desempenhadas**: Durante o estágio como técnico de informática,
+**Principais atividades desempenhadas**: Durante o estágio,
 desempenho diversas atividades relacionadas à manutenção e suporte técnico. Realizo
 a manutenção preventiva e corretiva de equipamentos, como computadores, notebooks e
 impressoras, além de instalar e configurar sistemas operacionais, aplicativos e ferramentas

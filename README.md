@@ -1,5 +1,10 @@
 # Keven da Silva Gonçalves
 
+GitHub: @kevendasilva - Fortaleza, CE\
+E-mail: kevendasilva.dev@gmail.com\
+Site: [https://kevendasilva.github.io/site/](https://kevendasilva.github.io/site/) - Portfólio: [https://kevendasilva.github.io/portfolio/](https://kevendasilva.github.io/portfolio/)\
+LinkedIn: [http://www.linkedin.com/in/keven-da-silva-gonçalves](http://www.linkedin.com/in/keven-da-silva-gonçalves).
+
 ## Objetivo
 
 Atuar como Programador de Sistemas de Informação, contribuindo para o desenvolvimento, manutenção e melhoria de sistemas. Busco aplicar minhas habilidades na criação de soluções eficientes e seguras, realizando testes, programando webservices e participando de implementações. Além disso, tenho interesse em colaborar com treinamentos, prestar suporte técnico e integrar projetos de inovação para otimizar processos e melhorar a usabilidade dos sistemas.

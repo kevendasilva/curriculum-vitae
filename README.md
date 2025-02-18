@@ -72,6 +72,14 @@ Por fim, desenvolvo pequenas automações utilizando Python e Vue.js para otimiz
 repetitivas e melhorar a eficiência em processos, aplicando soluções inovadoras para
 resolver problemas e aprimorar o fluxo de trabalho.
 
+**Estágio em Desenvolvimento Web**
+
+- Desenvolvimento de uma aplicação frontend utilizando Vue.js, consumindo dados de uma API em .NET.
+- Integração do frontend com o backend, garantindo comunicação eficiente entre as camadas da aplicação.
+- Utilização do Git para controle de versão e do Azure DevOps como repositório remoto e ferramenta de gerenciamento de tarefas.
+- Aprimoramento de habilidades em desenvolvimento web, incluindo boas práticas, desempenho e manutenção de código.
+
+
 **Empresa**: GTi Engenharia Jr.\
 **Cargo**: Desenvolvedor - Full Stack (2/2021 - 9/2022)\
 **Principais atividades desempenhadas**: Durante meu período na GTi Engenharia Jr.,

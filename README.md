@@ -7,7 +7,7 @@ LinkedIn: [http://www.linkedin.com/in/keven-da-silva-gonçalves](http://www.link
 
 ## Objetivo
 
-Atuar como Programador de Sistemas de Informação, contribuindo para o desenvolvimento, manutenção e melhoria de sistemas. Busco aplicar minhas habilidades na criação de soluções eficientes e seguras, realizando testes, programando webservices e participando de implementações. Além disso, tenho interesse em colaborar com treinamentos, prestar suporte técnico e integrar projetos de inovação para otimizar processos e melhorar a usabilidade dos sistemas.
+Contribuir para o desenvolvimento, manutenção e melhoria de sistemas. Busco aplicar minhas habilidades na criação de soluções eficientes e seguras, realizando testes, programando webservices e participando de implementações. Além disso, tenho interesse em colaborar com treinamentos, prestar suporte técnico e integrar projetos de inovação para otimizar processos e melhorar a usabilidade dos sistemas.
 
 ## Grau de instrução
 

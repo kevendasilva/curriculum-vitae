@@ -49,6 +49,33 @@ Essa experiência me permitiu aprimorar habilidades técnicas e de comunicação
 desenvolvendo projetos que atendem a diferentes nichos e necessidades de mercado.
 
 **Empresa**: Rede Sarah De Hospitais De Reabilitação\
+**Cargo**: Estágio (12/2024 - Meu emprego atual)\
+**Principais atividades desempenhadas**: Estágio em Desenvolvimento Web
+
+- Desenvolvimento de uma aplicação frontend utilizando Vue.js, Quasar e Pinia, garantindo
+uma experiência fluida e otimizada para os usuários.
+- Integração do frontend com uma API em .NET já utilizada em outra aplicação, ampliando
+o acesso a informações importantes de forma interativa.
+- Implementação de recursos de acessibilidade, com suporte ao leitor de tela NVDA, tornando
+a solução mais inclusiva para pessoas com baixa visão.
+- Utilização do Docker para facilitar o desenvolvimento e a implantação da aplicação.
+- Controle de versão com Git e gerenciamento de tarefas no Azure DevOps, garantindo
+colaboração eficiente e organização do projeto.
+- Aprimoramento de habilidades em desenvolvimento web, incluindo boas práticas,
+desempenho e manutenção de código.
+
+Segue a descrição do projeto:
+
+Sou desenvolvedor de um projeto que facilita o acesso a informações importantes usando
+uma API que já é utilizada em outra aplicação. A grande sacada aqui é que a solução é
+pensada especialmente para pessoas com baixa visão e funciona como um chat, o que torna
+tudo mais interativo.
+Para deixar a experiência ainda mais inclusiva, adicionei recursos de acessibilidade, como
+o suporte ao leitor de tela NVDA, que ajuda na navegação e na compreensão da interface.
+Estou usando Vue.js para desenvolver a aplicação, e mantenho o código de forma privada
+para garantir segurança.
+
+**Empresa**: Rede Sarah De Hospitais De Reabilitação\
 **Cargo**: Estágio (2/2024 - Meu emprego atual)\
 **Principais atividades desempenhadas**: Durante o estágio,
 desempenho diversas atividades relacionadas à manutenção e suporte técnico. Realizo
@@ -71,14 +98,6 @@ planilhas.
 Por fim, desenvolvo pequenas automações utilizando Python e Vue.js para otimizar tarefas
 repetitivas e melhorar a eficiência em processos, aplicando soluções inovadoras para
 resolver problemas e aprimorar o fluxo de trabalho.
-
-**Estágio em Desenvolvimento Web**
-
-- Desenvolvimento de uma aplicação frontend utilizando Vue.js, consumindo dados de uma API em .NET.
-- Integração do frontend com o backend, garantindo comunicação eficiente entre as camadas da aplicação.
-- Utilização do Git para controle de versão e do Azure DevOps como repositório remoto e ferramenta de gerenciamento de tarefas.
-- Aprimoramento de habilidades em desenvolvimento web, incluindo boas práticas, desempenho e manutenção de código.
-
 
 **Empresa**: GTi Engenharia Jr.\
 **Cargo**: Desenvolvedor - Full Stack (2/2021 - 9/2022)\
